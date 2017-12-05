@@ -14,5 +14,13 @@
     },
     "require-dev": {
         "behat/behat": "~2.5"
+    },
+    "extra": {
+        "commands": [
+            "maintenance disable",
+            "maintenance enable",
+            "maintenance status",
+            "maintenance toggle"
+        ]
     }
 }

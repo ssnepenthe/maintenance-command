@@ -9,7 +9,51 @@ Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contr
 
 ## Using
 
+This package implements the following commands:
 
+### wp maintenance disable
+
+Disable maintenance mode.
+
+~~~
+wp maintenance disable 
+~~~
+
+
+
+
+
+### wp maintenance enable
+
+Enable maintenance mode.
+
+~~~
+wp maintenance enable 
+~~~
+
+
+
+
+
+### wp maintenance status
+
+Display the current maintenance mode status.
+
+~~~
+wp maintenance status 
+~~~
+
+
+
+
+
+### wp maintenance toggle
+
+Toggle maintenance mode.
+
+~~~
+wp maintenance toggle 
+~~~
 
 ## Installing
 
