@@ -30,8 +30,6 @@ matrix:
     - php: 7.0
       env: WP_VERSION=latest
     - php: 7.0
-      env: WP_VERSION=3.7.11
-    - php: 7.0
       env: WP_VERSION=trunk
 
 before_install:
