@@ -1,3 +1,5 @@
+This package has been archived as the equivalent [maintenance-mode-command](https://github.com/wp-cli/maintenance-mode-command) is now an official package maintained by the WP-CLI team.
+
 ssnepenthe/maintenance-command
 ==============================
 
